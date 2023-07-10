@@ -1,5 +1,5 @@
 # Calculator_App_using_Koltin
-<hr>
+
 The calculator is a vital tool for your smartphone, simple and easy to use, with a clean design - the ideal Android calculator.
 
 ## App Screen
